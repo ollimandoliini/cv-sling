@@ -1,0 +1,13 @@
+{
+  "include": [
+    "src"
+  ],
+  "compilerOptions": {
+    "jsx": "react",
+    "lib": [
+      "esnext"
+    ],
+    "esModuleInterop": true,
+    "outDir": "dist"
+  }
+}
